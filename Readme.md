@@ -1,5 +1,3 @@
-<img src="snapshots/SatanLovesPrn.png" alt="SatanLovesPrn" width="1000" />
-
 ### DNSMasq pornography filter for Linux:
 
 ##### 1. Install:
